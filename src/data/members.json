@@ -82,4 +82,16 @@
     "tags": ["full-stack", "typescript", "react", "nextjs", "cloudflare"],
     "blurb": "Building software systems, full-stack applications, and developer tools."
   }
+  {
+  "name": "Alan Zhou",
+  "website": "https://alanreviews.github.io/",
+  "role": "Developer",
+  "location": "Ottawa, ON",
+  "tags": ["frontend", "full-stack", "programming", "Government", "Computer-vision"],
+  "blurb": "Developer with Python, Java, C/C++, and JavaScript experience developing web applications and programs.",
+  "links": [
+    { "url": "https://www.linkedin.com/in/alan-d-zhou/", "type": "LinkedIn" },
+    { "url": "https://www.youtube.com/c/TheAlanReviews", "type": "YouTube" }
+  ]
+}
 ]
